@@ -1,0 +1,7 @@
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\bin\Debug\Lightshot.exe.config
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\bin\Debug\Lightshot.exe
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\bin\Debug\Lightshot.pdb
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\obj\Debug\ICE.csprojAssemblyReference.cache
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\obj\Debug\ICE.csproj.CoreCompileInputs.cache
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\obj\Debug\Lightshot.exe
+C:\Users\Doruk\Desktop\ClickPlayer\ReakClicker\obj\Debug\Lightshot.pdb
